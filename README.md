@@ -6,4 +6,4 @@ The folder 'data' contains the data from the 'Online News Popularity' of the UCI
 
 Lastly, the notebook 'try_sklearn' contains the tentative we made to apply sklearn's function OneClassSVM to different datasets to reproduce the desired results. 
 
-In order to reproduce our results, it is sufficient to run each notebook, we made them independent so the order doesn't matter. 
+In order to reproduce our results, it is sufficient to run each notebook, we made them independent so the order doesn't matter. Nevertheless, as we didn't fix a random state in order not to overfit a particular dataset, the results may change a little.
